@@ -37,13 +37,14 @@ span {
   color: var(--main-color);
 }
 .header {
-  position: fixed;
+  position: sticky;
   top: 0;
   left: 0;
   width: 100%;
   padding: 2rem 9%;
   background: var(--bg-color-primary);
   z-index: 100;
+  overflow-x: hidden;
 }
 
 .header-top {
