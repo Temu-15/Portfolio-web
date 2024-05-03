@@ -44,7 +44,6 @@ span {
   padding: 2rem 9%;
   background: var(--bg-color-primary);
   z-index: 100;
-  overflow-x: hidden;
 }
 
 .header-top {
